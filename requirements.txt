@@ -1,0 +1,2 @@
+nvme==0.1.2
+tensorflow==2.15.0
